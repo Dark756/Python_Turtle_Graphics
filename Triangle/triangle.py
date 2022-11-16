@@ -28,3 +28,12 @@ triangle()
 
 t.hideturtle()
 turtle.done()        
+
+
+###################
+#                #
+#                #
+#   Dark Devil   #
+#                #
+#                #
+##################
